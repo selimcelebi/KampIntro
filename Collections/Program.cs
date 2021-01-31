@@ -27,6 +27,7 @@ namespace Collections
             isimler2.Add("İlker");
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[4]);
+            
 
         }
     }
